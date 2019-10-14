@@ -1,0 +1,63 @@
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.deps.json
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.runtimeconfig.json
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.runtimeconfig.dev.json
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.dll
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.pdb
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.Views.dll
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.Views.pdb
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.csproj.CoreCompileInputs.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorAssemblyInfo.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorAssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.AssemblyInfoInputs.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.AssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.TagHelpers.input.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.TagHelpers.output.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorCoreGenerate.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorTargetAssemblyInfo.cache
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorTargetAssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.Views.pdb
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.dll
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.pdb
+C:\Users\jaenuz.gorospe\Documents\My Projects\NBATracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.csproj.CopyComplete
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.deps.json
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.runtimeconfig.json
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.runtimeconfig.dev.json
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.dll
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.pdb
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.Views.dll
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\bin\Debug\netcoreapp2.1\NBATracker.Views.pdb
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.csprojAssemblyReference.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.csproj.CoreCompileInputs.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorAssemblyInfo.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorAssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.AssemblyInfoInputs.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.AssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.TagHelpers.input.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.TagHelpers.output.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorCoreGenerate.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorTargetAssemblyInfo.cache
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.RazorTargetAssemblyInfo.cs
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.Views.pdb
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.dll
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.pdb
+C:\Users\jaenuz.gorospe\Documents\NBA-Tracker\NBATracker\obj\Debug\netcoreapp2.1\NBATracker.csproj.CopyComplete

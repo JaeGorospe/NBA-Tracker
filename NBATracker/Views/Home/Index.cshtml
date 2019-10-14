@@ -1,0 +1,13 @@
+﻿
+@model NBATracker.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@foreach(Team team in Model.Teams)
+{
+    <div>
+        <p>@team.FullName</p>
+    </div>
+}
