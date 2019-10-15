@@ -37,5 +37,10 @@ namespace NBATracker.Clients
             }
             return teamListObject;
         }
+
+        public async Task GetTodaysGamesAsync()
+        {
+
+        }
     }
 }

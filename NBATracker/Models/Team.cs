@@ -9,5 +9,7 @@ namespace NBATracker.Models
     {
         public int TeamId { get; set; }
         public string FullName { get; set; }
+        public string TriCode { get; set; }
+
     }
 }
