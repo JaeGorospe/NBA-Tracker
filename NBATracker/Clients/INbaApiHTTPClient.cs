@@ -9,5 +9,7 @@ namespace NBATracker.Clients
     public interface INbaApiHTTPClient
     {
         Task<IEnumerable<Team>> GetTeamsAsync();
+        Task<IEnumerable<Game>> GetTodaysGamesAsync();
+
     }
 }

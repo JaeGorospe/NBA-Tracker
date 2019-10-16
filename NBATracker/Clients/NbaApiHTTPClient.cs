@@ -38,9 +38,25 @@ namespace NBATracker.Clients
             return teamListObject;
         }
 
-        public async Task GetTodaysGamesAsync()
+        public async Task<IEnumerable<Game>> GetTodaysGamesAsync()
         {
-
+            var todaysDate = DateTime.Now.ToString("yyyyMMdd");
+            var request = new HttpRequestMessage(HttpMethod.Get,
+                $"/prod/v2/20191016/scoreboard.json");
+            var client = _clientFactory.CreateClient("nba");
+            var response = await client.SendAsync(request);
+            IList<Game> todaySchedule = new List<Game>();
+            if (response.IsSuccessStatusCode)
+            {
+                JObject jsonResults = JObject.Parse(await response.Content.ReadAsStringAsync());
+                IList<JToken> teamListResult = jsonResults["games"].Children().ToList();
+                foreach (JToken token in teamListResult)
+                {
+                    Game game = token.ToObject<Game>();
+                    todaySchedule.Add(game);
+                }
+            }
+            return todaySchedule;
         }
     }
 }

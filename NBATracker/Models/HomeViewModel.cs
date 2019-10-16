@@ -8,5 +8,6 @@ namespace NBATracker.Models
     public class HomeViewModel
     {
         public IEnumerable<Team> Teams { get; set; }
+        public IEnumerable<Game> TodaysGames { get; set; }
     }
 }

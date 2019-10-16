@@ -21,7 +21,8 @@ namespace NBATracker.Controllers
         {
             HomeViewModel view = new HomeViewModel
             {
-                Teams = await _nbaClient.GetTeamsAsync()
+                Teams = await _nbaClient.GetTeamsAsync(),
+                TodaysGames = await _nbaClient.GetTodaysGamesAsync()
             };
             return View(view);
         }

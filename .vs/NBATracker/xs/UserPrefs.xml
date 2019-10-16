@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{FC219010-1F2A-42A1-BB4E-A3DEF1BDC582}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NBATracker/Models/HomeViewModel.cs">
+    <Files>
+      <File FileName="NBATracker/Controllers/HomeController.cs" Line="15" Column="1" />
+      <File FileName="NBATracker/Clients/NbaApiHTTPClient.cs" Line="62" Column="2" />
+      <File FileName="NBATracker/Models/Game.cs" Line="13" Column="43" />
+      <File FileName="NBATracker/Models/Team.cs" Line="16" Column="28" />
+      <File FileName="NBATracker/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="NBATracker/Clients/INbaApiHTTPClient.cs" Line="12" Column="52" />
+      <File FileName="NBATracker/Models/HomeViewModel.cs" Line="1" Column="1" />
+      <File FileName="NBATracker/Views/Home/Index.cshtml" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NBATracker" expanded="True">
+            <Node name="NBATracker" expanded="True">
+              <Node name="Clients" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="HomeViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NBATracker PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gorospejae/Documents/Open Source/NBA-Tracker/NBATracker/Controllers/HomeController.cs" relfile="NBATracker/Controllers/HomeController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/gorospejae/Documents/Open Source/NBA-Tracker/NBATracker/Clients/NbaApiHTTPClient.cs" relfile="NBATracker/Clients/NbaApiHTTPClient.cs" line="61" column="1" />
+      <Breakpoint file="/Users/gorospejae/Documents/Open Source/NBA-Tracker/NBATracker/Clients/NbaApiHTTPClient.cs" relfile="NBATracker/Clients/NbaApiHTTPClient.cs" line="59" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
