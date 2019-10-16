@@ -16,5 +16,6 @@ namespace NBATracker.Models
         public string StartTimeEastern { get; set; }
         [JsonProperty("clock")]
         public string Clock { get; set; }
+        public DateTimeOffset? StartTimeUTC { get; set; }
     }
 }

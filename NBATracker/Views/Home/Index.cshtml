@@ -1,4 +1,5 @@
-﻿
+﻿@using Humanizer;
+
 @model NBATracker.Models.HomeViewModel
 @{
     ViewData["Title"] = "Home Page";
@@ -7,11 +8,9 @@
 @foreach (Game game in Model.TodaysGames)
 {
     <div>
-        <h2>@game.HomeTeam.TriCode  @game.HomeTeam.Score</h2>
-        <p>v.</p>
-        <h2>@game.AwayTeam.TriCode  @game.AwayTeam.Score</h2>
+        <h2>@game.AwayTeam.TriCode @@ @game.HomeTeam.TriCode</h2>
         <h2>@game.Clock</h2>
-        <h2>@game.StartTimeEastern</h2>
+        <h2>@game.StartTimeEastern - @game.StartTimeUTC.Humanize()</h2>
         <h2></h2>
         <hr />
     </div>
